@@ -1,4 +1,4 @@
-# Fish-Feeder-IoT
+<img width="1536" height="1024" alt="Project" src="https://github.com/user-attachments/assets/8dd4c826-a628-4d79-b30d-8d6024ade171" /># Fish-Feeder-IoT
 An IoT-based fish feeder controlled via mobile app
 # IoT Fish Feeder 🐟
 
@@ -22,5 +22,8 @@ It is designed to help aquarium owners feed their fish automatically or manually
   - Arduino IDE
   - Blynk IoT App
   - C++ (Arduino language)
+
+<img width="1536" height="1024" alt="Project" src="https://github.com/user-attachments/assets/9cc8667d-1554-4781-a3db-f9f265784ce9" />
+
 
 Watch the Video  https://youtu.be/HVINwBJ-ai8?si=NcvAPHY-6rQEvBjx
