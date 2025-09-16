@@ -1,8 +1,7 @@
 An IoT-based fish feeder controlled via mobile app
 # IoT Fish Feeder 🐟
 
- 📌 Description
-This project is an **Automatic Fish Feeder** based on **NodeMCU ESP8266** with remote control using the **Blynk application**.  
+ 📌 This project is an **Automatic Fish Feeder** based on **NodeMCU ESP8266** with remote control using the **Blynk application**.  
 It is designed to help aquarium owners feed their fish automatically or manually via a smartphone.
 
 🚀 Features
