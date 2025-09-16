@@ -1,4 +1,3 @@
-<img width="1536" height="1024" alt="Project" src="https://github.com/user-attachments/assets/8dd4c826-a628-4d79-b30d-8d6024ade171" /># Fish-Feeder-IoT
 An IoT-based fish feeder controlled via mobile app
 # IoT Fish Feeder 🐟
 
